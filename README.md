@@ -17,7 +17,7 @@
 
     python marathiapi.py
 
-### 5. And open 127.0.0.1:8000 in your web browser.
+### 5. And open 127.0.0.1:5000 in your postman extension.
 
 API Documentation
 -----------------
