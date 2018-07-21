@@ -1,1 +1,1 @@
-web: python marathiapi.py --log-file -
+web: gunicorn marathiapi:app --log-file -

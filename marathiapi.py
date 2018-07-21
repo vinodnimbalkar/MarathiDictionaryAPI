@@ -234,4 +234,4 @@ def delete_engmar(current_user, engmar_id):
     return jsonify({'message' : 'word deleted!'})
 
 if __name__ == '__main__':
-    app.run(host='marathidictionaryapi.heroku.com', debug=False)
+    app.run(debug=False)
