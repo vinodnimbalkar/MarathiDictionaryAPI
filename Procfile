@@ -1,1 +1,1 @@
-worker: python marathiapi.py --log-file -
+web: python marathiapi.py --log-file -
